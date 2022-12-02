@@ -4,13 +4,13 @@ This is a repository for the report on the AdaBoost algorithm's error bound. We 
 
 ## Repository Map
 
-`data` — Experimental values we obtained throughout the experiments.
+`data` — Values we obtained throughout the experiments.
 
 `figs` — Figures we present in the report.
 
 `synthetic.ipynb` — Experiments on synthetic data.
 
-`real_d.ipynb`, `real_m.ipynb` — Experiments on real data for parameters $d$ and $m$. The dataset we used can be found [here](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset).
+`real_d.ipynb`, `real_m.ipynb` — Experiments on real data. The dataset we used can be found [here](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset).
 
 `report.pdf` — The report itself.
 
