@@ -1,18 +1,18 @@
 # Empirical Analysis of Boosting Error Bound
 
-This is a repository for the report on the AdaBoost algorithm's error bound. We provide an empirical verification of the theoretical error bound of the algorithm, by testing it on synthetic and real data. We conclude that the bound holds in both cases.
+This is a repository for the [report](https://arxiv.org/abs/2302.00880) on the AdaBoost algorithm's error bound. We provide an empirical verification of the theoretical error bound of the algorithm, by testing it on synthetic and real data. We conclude that the bound holds in both cases.
 
 ## Repository Map
 
 `data` — Values we obtained throughout the experiments.
 
-`figs` — Figures we present in the report.
+`figs` — Figures we present in the manuscript.
 
 `synthetic.ipynb` — Experiments on synthetic data.
 
 `real_d.ipynb`, `real_m.ipynb` — Experiments on real data. The dataset we used can be found [here](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset).
 
-`report.pdf` — The report itself.
+`manuscript.pdf` — The manuscript itself.
 
 ## Citation
 ```
