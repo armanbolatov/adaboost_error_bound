@@ -19,7 +19,7 @@ This is a repository for the [report](https://arxiv.org/abs/2302.00880) on the A
 @inproceedings{inproceedings,
   author={Arman Bolatov, Kaisar Dauletbek},
   title={{Empirical Analysis of Boosting Error Bound}},
-  year=2022,
+  year=2023,
 }
 ```
 
